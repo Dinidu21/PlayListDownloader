@@ -1,7 +1,3 @@
-Certainly! Here's a basic template for a README file that you can use for your GitHub repository:
-
----
-
 # YouTube Playlist Downloader
 
 This Python script downloads videos from a YouTube playlist with a progress bar using the Pytube and tqdm libraries.
