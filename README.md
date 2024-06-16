@@ -1,4 +1,4 @@
-# YouTube Playlist Downloader
+# YouTube Playlist Downloader 🎥
 
 This Python script downloads videos from a YouTube playlist with a progress bar using the Pytube and tqdm libraries.
 
@@ -12,24 +12,24 @@ This Python script downloads videos from a YouTube playlist with a progress bar 
 - [License](#license)
 - [Author](#author)
 
-## Introduction
+## Introduction ℹ️
 
 This script allows you to download videos from a specified YouTube playlist. It uses the Pytube library to interact with YouTube's API for video information and downloading capabilities. The tqdm library is utilized to provide a progress bar for visual feedback during the download process.
 
-## Features
+## Features ✨
 
 - Downloads videos from a YouTube playlist.
 - Displays download progress using a progress bar.
 - Supports high-resolution video downloads.
 
-## Requirements
+## Requirements 🛠️
 
 - Python 3.x
 - Pytube library (`pip install pytube`)
 - tqdm library (`pip install tqdm`)
 - requests library (`pip install requests`)
 
-## Installation
+## Installation 🚀
 
 1. Clone the repository:
    ```bash
@@ -41,24 +41,22 @@ This script allows you to download videos from a specified YouTube playlist. It 
    pip install -r requirements.txt
    ```
 
-## Usage
+## Usage 🎬
 
 1. Run the script:
    ```bash
-   python PlayListDownloader.py
+   python main.py
    ```
 
 2. Enter the URL of the YouTube playlist when prompted.
 
 3. Follow the on-screen instructions to download videos and manage the download process.
 
-## License
+## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## Author 🧑‍💻
 
 - GitHub: [Dinidu21](https://github.com/Dinidu21)
-
----
 
