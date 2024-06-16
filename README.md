@@ -45,7 +45,7 @@ This script allows you to download videos from a specified YouTube playlist. It 
 
 1. Run the script:
    ```bash
-   python main.py
+   python PlayListDownloader.py
    ```
 
 2. Enter the URL of the YouTube playlist when prompted.
